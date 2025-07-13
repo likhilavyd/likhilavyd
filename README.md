@@ -2,6 +2,6 @@
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on projects.
-- 📫 How to reach me? Please email me on likhila.skilldevelopment@gmail.com.
+- 📫 How to reach me? Please email me on likhilavyd.work@gmail.com.
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm a very quick learner!
