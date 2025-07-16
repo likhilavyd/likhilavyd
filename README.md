@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @likhilavyd<br>👀 I’m interested in Web Development.<br>🌱 I’m currently looking for opportunities to update my skill set.<br>💞️ I’m looking to collaborate on projects.<br>📫 How to reach me? Please email me on likhilavyd.work@gmail.com.<br>😄 Pronouns: She/Her<br>⚡ Fun fact: I'm a very quick learner!<br>✨ Take a look at my profile https://likhilavyd.github.io/My-Portfolio/
+👋 Hi, I’m @likhilavyd<br>👀 I’m interested in Web Development.<br>🌱 I’m currently looking for opportunities to update my skill set.<br>💞️ I’m looking to collaborate on projects.<br>📫 How to reach me? Please email me on likhilavyd.work@gmail.com.<br>😄 Pronouns: She/Her<br>⚡ Fun fact: I'm a very quick learner!
 
 
 ## 🌐 Socials:
@@ -17,5 +17,7 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=likhilavyd&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
