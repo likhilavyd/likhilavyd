@@ -1,6 +1,8 @@
 # 💫 About Me:
 👋 Hi, I’m @likhilavyd<br>👀 I’m interested in Web Development.<br>🌱 I’m currently looking for opportunities to update my skill set.<br>💞️ I’m looking to collaborate on projects.<br>📫 How to reach me? Please email me on likhila.vydana@gmail.com.<br>😄 Pronouns: She/Her<br>⚡ Fun fact: I'm a very quick learner!
 
+Visit my proflie: https://likhilavyd.github.io/portfolio/
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/likhila-vydana-aab074325) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:likhila.vydana@gmail.com) 
